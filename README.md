@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**marcinkunert/marcinkunert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Marcin Kunert. I'm currently based in Wroclaw, Poland :poland:.
 
-Here are some ideas to get you started:
+I'm a small business owner of [JavaStart.pl](https://javastart.pl), where we, together with my business partner, teach programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current points of interests are:
+
+- Java
+- DevOps
+- Selfhosting
+
+I was also active in Android Development, but the interest in this techology faded a bit.
+
+📫 The best way to reach me would be Twitter: @qunerd, or [LinkedIn](https://www.linkedin.com/in/marcinkunert/)
