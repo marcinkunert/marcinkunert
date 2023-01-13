@@ -12,4 +12,4 @@ My current points of interests are:
 
 I was also active in Android Development, but the interest in this techology faded a bit.
 
-📫 The best way to reach me would be Twitter: @qunerd, or [LinkedIn](https://www.linkedin.com/in/marcinkunert/)
+📫 The best way to reach me is via [LinkedIn](https://www.linkedin.com/in/marcinkunert/)
